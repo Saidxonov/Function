@@ -337,13 +337,13 @@
 
 // 24. **Massivning oxirgi n elementlarini olish**
 
-function lastElement() {
-  let res = numbers.lastIndexOf(element);
-  console.log(res);
-}
-let element = 7;
-let numbers = [
-  1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6,
-  7, 8, 9, 0,
-];
-lastElement();
+// function lastElement() {
+//   let res = numbers.lastIndexOf(element);
+//   console.log(res);
+// }
+// let element = 7;
+// let numbers = [
+//   1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0, 1, 2, 3, 4, 5, 6,
+//   7, 8, 9, 0,
+// ];
+// lastElement();
